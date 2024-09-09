@@ -1,4 +1,5 @@
 # Learning Versions Control
+
 Descripción
 En este repositorio incluiremos todas nuestras prácticas con git
 
@@ -6,11 +7,9 @@ Instalación
 Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
 
 Clona este repositorio:
-
 git clone https://github.com/tu_usuario/nombre-del-repositorio.git
 
 Ve al directorio del proyecto:
-
 cd nombre-del-repositorio
 
  
